@@ -1,5 +1,5 @@
 # lazy-managment-tool
-A shell-based project management tool for the tool fatigue developer.
+A shell-based project management tool for the tool-fatigue developer.
 
 # Installation 
 `wget https://raw.githubusercontent.com/RobinLinus/lazy-project-managment/master/todos && chmod +x todos`
